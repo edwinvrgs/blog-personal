@@ -1,0 +1,12 @@
+{
+  "name": "blog-personal",
+  "version": "0.0.1",
+  "description": "Blog personal con fines mutipropósito",
+  "dependencies": {
+    "harp": "*",
+    "node-sass": "^4.5.0"
+  },
+  "repository": "https://github.com/edwinvrgs/blog-personal.git",
+  "author": "Edwin Vargas <onix.edwin18@gmail.com>",
+  "license": "MIT"
+}
