@@ -1,0 +1,6 @@
+README.html
+LICENSE
+node_modules/
+*.log
+Thumbs.db
+public/**/Thumbs.db
