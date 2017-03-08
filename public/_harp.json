@@ -1,14 +1,14 @@
 {
     "globals": {
-        "sitename": "My blog",
-        "description": "This is my blog where I post stuff",
-        "author": "Me",
-        "email": "me@domain.com",
-        "twitter": "mytwitteraccount",
+        "sitename": "Just another blog",
+        "description": "Blog personal multipropósito",
+        "author": "Edwin Vargas",
+        "email": "edwinvargas@protonmail.com",
+        "twitter": "edwinvrgs",
 
         "navigation": [
-            { "title" : "Home", "link": "/" },
-            { "title" : "About", "link": "/about" }
+            { "title": "Home", "link": "/" },
+            { "title": "About", "link": "/about" }
         ]
     }
 }

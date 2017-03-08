@@ -6,6 +6,9 @@
     "harp": "*",
     "node-sass": "^4.5.0"
   },
+  "scripts": {
+    "start": "harp server public"
+  },
   "repository": "https://github.com/edwinvrgs/blog-personal.git",
   "author": "Edwin Vargas <onix.edwin18@gmail.com>",
   "license": "MIT"
