@@ -51,3 +51,40 @@ mixin quote(source)
 
         if source
             footer.quote-source=source
+            
+mixin headline(level)
+  if level == 1
+    h1
+      block
+
+  else if level == 2
+    h2
+      block
+
+  else if level == 3
+    h3
+      block
+
+  else if level == 4
+    h4
+      block
+
+  else if level == 5
+    h5
+      block
+
+  else
+    h6
+      block
+
+mixin permalink(id)
+  if id
+    a(id=id href="##{id}")
+      block
+  else
+    block
+
+mixin h(level, id)
+  +headline(level)
+    +permalink(id)
+      block

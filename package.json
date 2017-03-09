@@ -7,7 +7,7 @@
     "node-sass": "^4.5.0"
   },
   "scripts": {
-    "start": "harp server public"
+    "start": "harp server public --port 1801"
   },
   "repository": "https://github.com/edwinvrgs/blog-personal.git",
   "author": "Edwin Vargas <onix.edwin18@gmail.com>",

@@ -1,4 +1,11 @@
 {
+    "william-tyndale": {
+        "title": "El principe de los traductores: William Tyndale",
+        "categories": [ "biografía", "Dios" ],
+        "date": "2017-03-08",
+        "image": "post0.jpg"
+    },
+
     "this-is-a-post": {
         "title": "This is a post",
         "categories": [ "test", "personal" ],
